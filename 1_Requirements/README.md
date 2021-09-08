@@ -1,7 +1,7 @@
 # Requirements
 
 ## Introduction
-A work diary is essential for ensuring you complete every task at hand.This system is a simple mini project and compiled in VS Codes Both on Windows and Linux operating systems using GCC compiler. A well-managed diary displays everything in one place, making it hugely preferable to trying to keep track of deadlines on a stack of post-it notes.Our diary is not only a central resource for you but also for your teams too. They can see when you’re busy, when you’re free, when you’re on leave and when you have a major deadline lurking around the corner. This means they can plan their time accordingly so they are free when you are if they need to catch up.
+A work diary is essential for ensuring you complete every task at hand.This system is a simple mini project and compiled in VS Codes Both on Windows and Linux operating systems using GCC compiler. A well-managed diary displays everything in one place, making it hugely preferable to trying to keep track of deadlines on a stack of post-it notes.Our diary is not only a central rexsource for you but also for your teams too. They can see when you’re busy, when you’re free, when you’re on leave and when you have a major deadline lurking around the corner. This means they can plan their time accordingly so they are free when you are if they need to catch up.
 
 
 - 
