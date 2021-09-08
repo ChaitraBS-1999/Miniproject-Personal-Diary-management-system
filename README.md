@@ -10,3 +10,6 @@
 
 
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/Valgrind.yml)
+
+
+[![cppcheck-action](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/cppcheck.yml)
