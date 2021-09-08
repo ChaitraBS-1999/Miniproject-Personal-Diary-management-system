@@ -1,7 +1,11 @@
 #include<stdio.h>
 #include<string.h>
-#include"stdlib.h"
-#include "diaryy.h"
+#include<stdlib.h>
+#include"diaryy.h"
+void welcome_message();
+int insert();
+int append();
+int view();
 
 int main()
 {
