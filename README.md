@@ -7,3 +7,6 @@
 
 [![C/C++ CI](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/c-build.yml/badge.svg)](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/c-build.yml)
 
+
+
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/Valgrind.yml)
