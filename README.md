@@ -15,3 +15,6 @@
 [![cppcheck-action](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/cppcheck.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/gitinspector.yml)
+
+
+[![Unit Testing - Unity](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/unity.yml/badge.svg)](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/unity.yml)
