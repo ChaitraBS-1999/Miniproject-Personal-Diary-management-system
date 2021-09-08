@@ -5,3 +5,5 @@
 
 [![Code Grade](https://www.code-inspector.com/project/28054/status/svg)](https://www.code-inspector.com)
 
+[![C/C++ CI](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/c-build.yml/badge.svg)](https://github.com/ChaitraBS-1999/Miniproject-Personal-Diary-management-system/actions/workflows/c-build.yml)
+
