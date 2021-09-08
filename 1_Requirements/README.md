@@ -3,18 +3,8 @@
 ## Introduction
 A work diary is essential for ensuring you complete every task at hand.This system is a simple mini project and compiled in VS Codes Both on Windows and Linux operating systems using GCC compiler. A well-managed diary displays everything in one place, making it hugely preferable to trying to keep track of deadlines on a stack of post-it notes.Our diary is not only a central resource for you but also for your teams too. They can see when you’re busy, when you’re free, when you’re on leave and when you have a major deadline lurking around the corner. This means they can plan their time accordingly so they are free when you are if they need to catch up.
 
-## Features
-- A simple consoled based Restaurant Food Ordering System.
-- It has signup and Login to the customers and Admin.
-- The user can easily order available foods.
-- Total bill calculations according to quantity ordered by the customers.
-- Different Menu Lists like Starter, Main course and Dessert.
-- Container Numbers of Items according to menu set.
-- Admin Can Add or Modify the meals accordingly.
-- Cart to Store the Meals.
-- Display the Menu List
-- Modular Based Programming.
 
+- 
 
 ## Features
 
